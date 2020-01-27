@@ -8,3 +8,10 @@ C:\Users\Anna\Documents\Hem_HB_20121218\Grund Pgm 17\Övn1_genomf\Tentamensadmin
 C:\Users\Anna\Documents\Hem_HB_20121218\Grund Pgm 17\Övn1_genomf\Tentamensadministration\Tentamensadministration\obj\Debug\Tentamensadministration.exe
 C:\Users\Anna\Documents\Hem_HB_20121218\Grund Pgm 17\Övn1_genomf\Tentamensadministration\Tentamensadministration\obj\Debug\Tentamensadministration.pdb
 C:\Users\Anna\Documents\Hem_HB_20121218\Grund Pgm 17\Övn1_genomf\Tentamensadministration\Tentamensadministration\obj\Debug\Tentamensadministration.csprojResolveAssemblyReference.cache
+f:\seasharp\Uppgift 2\Tentamensadministration\obj\Debug\Tentamensadministration.csprojAssemblyReference.cache
+f:\seasharp\Uppgift 2\Tentamensadministration\obj\Debug\Tentamensadministration.csproj.CoreCompileInputs.cache
+f:\seasharp\Uppgift 2\Tentamensadministration\obj\Debug\Tentamensadministration.exe
+f:\seasharp\Uppgift 2\Tentamensadministration\obj\Debug\Tentamensadministration.pdb
+f:\seasharp\Uppgift 2\Tentamensadministration\bin\Debug\Tentamensadministration.exe.config
+f:\seasharp\Uppgift 2\Tentamensadministration\bin\Debug\Tentamensadministration.exe
+f:\seasharp\Uppgift 2\Tentamensadministration\bin\Debug\Tentamensadministration.pdb
