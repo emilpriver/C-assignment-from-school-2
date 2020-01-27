@@ -1,0 +1,10 @@
+c:\users\anna\documents\visual studio 2015\Projects\Tentamensadministration\Tentamensadministration\bin\Debug\Tentamensadministration.exe.config
+C:\Users\Anna\documents\visual studio 2015\Projects\Tentamensadministration\Tentamensadministration\obj\Debug\Tentamensadministration.csprojResolveAssemblyReference.cache
+C:\Users\Anna\documents\visual studio 2015\Projects\Tentamensadministration\Tentamensadministration\bin\Debug\Tentamensadministration.exe
+C:\Users\Anna\documents\visual studio 2015\Projects\Tentamensadministration\Tentamensadministration\bin\Debug\Tentamensadministration.pdb
+C:\Users\Anna\documents\visual studio 2015\Projects\Tentamensadministration\Tentamensadministration\obj\Debug\Tentamensadministration.exe
+C:\Users\Anna\documents\visual studio 2015\Projects\Tentamensadministration\Tentamensadministration\obj\Debug\Tentamensadministration.pdb
+C:\Users\Anna\Documents\Hem_HB_20121218\Grund Pgm 17\Övn1_genomf\Tentamensadministration\Tentamensadministration\bin\Debug\Tentamensadministration.exe.config
+C:\Users\Anna\Documents\Hem_HB_20121218\Grund Pgm 17\Övn1_genomf\Tentamensadministration\Tentamensadministration\obj\Debug\Tentamensadministration.exe
+C:\Users\Anna\Documents\Hem_HB_20121218\Grund Pgm 17\Övn1_genomf\Tentamensadministration\Tentamensadministration\obj\Debug\Tentamensadministration.pdb
+C:\Users\Anna\Documents\Hem_HB_20121218\Grund Pgm 17\Övn1_genomf\Tentamensadministration\Tentamensadministration\obj\Debug\Tentamensadministration.csprojResolveAssemblyReference.cache
